@@ -1,1 +1,3 @@
-# api link : (https://api.kanye.rest)# JavaScript-Kanye-West-Api
+# JavaScript-Kanye-West-Api
+
+# api link : (https://api.kanye.rest)
